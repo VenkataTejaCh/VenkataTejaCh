@@ -1,4 +1,3 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMhjFTEfy75XXqVnvezOzxcZf8w3w18J27eg&usqp=CAU)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Venkata Teja Chundu</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://aryng.com/assets/img/ani2.gif">
